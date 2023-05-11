@@ -1,5 +1,5 @@
 // creates component 
-import React, { StrictMode } from "react";
+import React from "react";
 
 export default function Board() {
   return (
